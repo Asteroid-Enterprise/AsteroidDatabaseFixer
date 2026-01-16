@@ -1,6 +1,5 @@
 package me.serbob.asteroiddatabasefixer
 
-import kotlinx.coroutines.async
 import kotlinx.coroutines.runBlocking
 import me.serbob.asteroiddatabasefixer.command.CommandLineParser
 import me.serbob.asteroiddatabasefixer.database.Database

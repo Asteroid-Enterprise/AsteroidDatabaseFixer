@@ -27,4 +27,5 @@ tasks.shadowJar {
     }
 
     archiveClassifier.set("")
+    archiveVersion.set("")
 }
