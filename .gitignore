@@ -4,6 +4,9 @@ build/
 out/
 classes/
 
+# Kotlin
+.kotlin/
+
 # IntelliJ IDEA & User-specific stuff
 .idea/
 *.iml
