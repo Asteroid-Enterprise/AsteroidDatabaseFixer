@@ -2,6 +2,8 @@
 
 Fixes invalid player profiles in your Asteroid database by removing players that no longer exist.
 
+> Works on both **Asteroid** & **Asteroid Enterprise**
+
 ## Requirements
 
 - Java 21 or higher
