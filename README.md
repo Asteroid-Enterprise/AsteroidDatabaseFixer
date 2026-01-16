@@ -2,6 +2,8 @@
 
 Fixes invalid player profiles in your Asteroid database by removing players that no longer exist.
 
+> Works on both **Asteroid** & **Asteroid Enterprise**
+
 ## Requirements
 
 - Java 21 or higher
@@ -15,11 +17,6 @@ java -jar AsteroidDatabaseFixer-1.0.jar sqlite
 ```
 
 > **Note:** Only SQLite is currently supported.
-
-## What it does
-
-- Fetches all player profiles from your database
-- Removes profiles that no longer exist
 
 ## Download
 
